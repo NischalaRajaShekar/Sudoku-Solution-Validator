@@ -348,5 +348,5 @@ void printSudoku(vector< vector <int> > sudoku)
 
 		cout << " | " << endl;
 	}
-	cout << "  ------------------------------------" << endl;
+	cout << "  -------------------------------------" << endl;
 }
